@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<h1 align="center">
+   Profile Page
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86967864/149822551-a753262f-e97a-4131-b882-b5caa9062655.png" width=70% >
+</p>
 
-## Available Scripts
+## 💻 About
+Profile Page é uma Homepege com meus contatos e meus ultimos e mais significantes projetos que desenvolvi na area de Tecnologia.
 
-In the project directory, you can run:
+## 🔗 Link Surge
++ <a target="_blank" href="https://utopian-learning.surge.sh/">ProfilePage</a>
 
-### `npm start`
+## 💡 Functionalities
+- [x] Sobre Mim
+- [x] Contatos
+- [x] Projetos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Tech
+As seguintes ferramentas foram utilizadas na construção do projetos:
++ <a target="_blank" href="https://reactrouter.com/web/guides/quick-start">React Router</a>
++ <a target="_blank" href="https://reactjs.org/">ReactJS</a>
++ <a target="_blank" href="https://pt-br.reactjs.org/docs/hooks-intro.html">Hooks</a>
++ <a target="_blank" href="https://styled-components.com/">Styled-Components</a>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📝 License
+```
+Copyright [2022] [Guilherme Pazini]
 
-### `npm run build`
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🦸 Executor
+Guilherme Pazini  • <a href="https://www.linkedin.com/in/guilhermepazini/">Linkedin</a>
